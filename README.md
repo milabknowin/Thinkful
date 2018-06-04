@@ -1,2 +1,3 @@
 # Repository of Thinkful Data Science Bootcamp assignments
-# Thinkful data science bootcamp assignments
+# Exploratory_Data_Analysis is primarily data analysis and visualizations, without any modeling.
+# Supervised_Learning consists of data modeling. Folder names are model names when applicable, or assignment names.
