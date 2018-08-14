@@ -1,0 +1,30 @@
+version : '2'
+
+services:
+  spark:
+    build:
+      context: ./Spark
+    container_name: spark_01
+    ports:
+      - "9999:9999"
+    volumes:
+      - ./Spark/src:/home/ds
+    command: jupyter-notebook --no-browser --port 9999 --ip='*' --allow-root
+
+    depends_on:
+      - twitter-stream
+
+  twitter-stream:
+    build:
+      context: ./Twitter-Stream
+    container_name: twitter_stream_01
+    ports:
+      - "5555:5555"
+    volumes:
+      - ./Twitter-Stream/src:/home/ds
+    command: python TweetRead.py
+    environment:
+      - ACCESS_TOKEN=${ACCESS_TOKEN}
+      - ACCESS_TOKEN_SECRET=${ACCESS_TOKEN_SECRET}
+      - CONSUMER_KEY=${CONSUMER_KEY}
+      - CONSUMER_SECRET=${CONSUMER_SECRET}
