@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="stylesheet" type="text/css" href="http://everydaysexism.com/wp-content/themes/blankslate-child/style.css?v2.1" />
+<title>Everyday Sexism Project</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Everyday Sexism Project &raquo; Feed" href="http://everydaysexism.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Everyday Sexism Project &raquo; Comments Feed" href="http://everydaysexism.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/everydaysexism.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script type='text/javascript' src='http://everydaysexism.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://everydaysexism.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://everydaysexism.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://everydaysexism.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://everydaysexism.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.7" />
+</head>
+<body class="blog">
+<div id="wrapper" class="hfeed">
+<header id="header" role="banner">
+<section id="branding">
+<div id="flags">
+	<ul>
+		<li><a href="/country/ar"><img src="/wp-content/uploads/2016/02/argentina.png"></a></li>
+		<li><a href="/country/au"><img src="/wp-content/uploads/2016/02/australia.png"></a></li>
+		<li><a href="/country/at"><img src="/wp-content/uploads/2016/02/austria.png"></a></li>
+		<li><a href="/country/br"><img src="/wp-content/uploads/2016/02/brazil.png"></a></li>
+		<li><a href="/country/ca"><img src="/wp-content/uploads/2016/02/canada.png"></a></li>
+		<li><a href="/country/cn"><img src="/wp-content/uploads/2016/02/china.png"></a></li>
+		<li><a href="/country/dk"><img src="/wp-content/uploads/2016/02/denmark.png"></a></li>
+		<li><a href="/"><img src="/wp-content/uploads/2016/02/united-kingdom.png"></a></li>
+		<li><a href="/country/fr"><img src="/wp-content/uploads/2016/02/france.png"></a></li>
+		<li><a href="/country/de"><img src="/wp-content/uploads/2016/02/germany.png"></a></li>
+		<li><a href="/country/it"><img src="/wp-content/uploads/2016/02/italy.png"></a></li>
+		<li><a href="/country/jp"><img src="/wp-content/uploads/2016/02/japan.png"></a></li>
+		<li><a href="/country/mx"><img src="/wp-content/uploads/2016/02/mexico.png"></a></li>
+		<li><a href="/country/md"><img src="/wp-content/uploads/2016/02/moldova.png"></a></li>
+		<li><a href="/country/nl"><img src="/wp-content/uploads/2016/02/netherlands.png"></a></li>
+		<li><a href="/country/nz"><img src="/wp-content/uploads/2016/02/new-zealand.png"></a></li>
+		<li><a href="/country/pt"><img src="/wp-content/uploads/2016/02/portugal.png"></a></li>
+		<li><a href="/country/refugee"><img src="/wp-content/uploads/2016/02/refugee.png"></a></li>
+		<li><a href="/country/ro"><img src="/wp-content/uploads/2016/02/romania.png"></a></li>
+		<li><a href="/country/ru"><img src="/wp-content/uploads/2016/02/russia.png"></a></li>
+		<li><a href="/country/rs"><img src="/wp-content/uploads/2016/02/serbia.png"></a></li>
+		<li><a href="/country/za"><img src="/wp-content/uploads/2016/02/south-africa.png"></a></li>
+		<li><a href="/country/es"><img src="/wp-content/uploads/2016/02/spain.png"></a></li>
+		<li><a href="/country/se"><img src="/wp-content/uploads/2016/02/sweden.png"></a></li>
+		<li><a href="/country/us"><img src="/wp-content/uploads/2016/02/united-states.png"></a></li>
+	</ul>
+</div>
+</section>
+<nav id="menu" role="navigation">
+
+	
+</nav>
+<div id="top-logo"><img src="/wp-content/uploads/2016/02/everyday-sexism-logo.png"></div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-30408944-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</header>
+<div id="container"><section id="content" role="main">
+
+
+<div class="my_extra_menu_class"><ul id="menu-main-menu" class="menu"><li id="menu-item-187" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-187"><a href="/">project</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://everydaysexism.com/about">about</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://everydaysexism.com/contact">contact</a></li>
+<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="http://everydaysexism.com/help-support">support</a></li>
+<li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="http://everydaysexism.com/digital-security">digital security</a></li>
+</ul></div><div class="social_menu">
+<div class="tw-like social_menu_item"> <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://everydaysexism.com" data-hashtags="everyday-sexism">Tweet</a></div>
+<div class="fb-like social_menu_item" data-href="http://www.everydaysexism.com/" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false" data-font="arial"> </div>
+</div>
+
+<div class="project">
+<p>The Everyday Sexism Project exists to catalogue instances of sexism experienced on a day to day basis. They might be serious or minor, outrageously offensive or so niggling and normalised that you don’t even feel able to protest. Say as much or as little as you like, use your real name or a pseudonym – it’s up to you. By sharing your story you’re showing the world that sexism does exist, it is faced by women everyday and it is a valid problem to discuss.
+</p><p>
+If you prefer to e-mail me at laura@everydaysexism.com I can upload your story for you instead. Follow us on Twitter (and submit entries by tweet) at @EverydaySexism.
+</p>
+</div>
+
+<div class = "form_area"><h3>Search through everyday sexism entries</h3><form role="search" method="get" id="searchform" class="searchform" action="http://everydaysexism.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></div>
+<div class = "form_area"><h3>Add your story:</h3>
+                <div class='gf_browser_gecko gform_wrapper' id='gform_wrapper_1' ><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/'>
+                        <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_1' >name<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_post_title'>
+					<input name='input_1' id='input_1_1' type='text' value='' class='medium' tabindex='1'  placeholder='name' aria-required="true" aria-invalid="false" />
+				</div></li><li id='field_1_2'  class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_2' >Story<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_textarea'><textarea name='input_2' id='input_1_2' class='textarea medium' tabindex='2'   aria-required="true" aria-invalid="false"   rows='10' cols='50'></textarea></div></li><li id='field_1_4'  class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label'  >Post tags (optional) tick all that apply</label><div class='ginput_container ginput_container_checkbox'><ul class='gfield_checkbox' id='input_1_4'><li class='gchoice_1_4_1'>
+								<input name='input_4.1' type='checkbox'  value='Workplace'  id='choice_1_4_1' tabindex='3'  />
+								<label for='choice_1_4_1' id='label_1_4_1'>Workplace</label>
+							</li><li class='gchoice_1_4_2'>
+								<input name='input_4.2' type='checkbox'  value='Public space'  id='choice_1_4_2' tabindex='4'  />
+								<label for='choice_1_4_2' id='label_1_4_2'>Public space</label>
+							</li><li class='gchoice_1_4_3'>
+								<input name='input_4.3' type='checkbox'  value='Home'  id='choice_1_4_3' tabindex='5'  />
+								<label for='choice_1_4_3' id='label_1_4_3'>Home</label>
+							</li><li class='gchoice_1_4_4'>
+								<input name='input_4.4' type='checkbox'  value='Public Transport'  id='choice_1_4_4' tabindex='6'  />
+								<label for='choice_1_4_4' id='label_1_4_4'>Public Transport</label>
+							</li><li class='gchoice_1_4_5'>
+								<input name='input_4.5' type='checkbox'  value='School'  id='choice_1_4_5' tabindex='7'  />
+								<label for='choice_1_4_5' id='label_1_4_5'>School</label>
+							</li><li class='gchoice_1_4_6'>
+								<input name='input_4.6' type='checkbox'  value='University'  id='choice_1_4_6' tabindex='8'  />
+								<label for='choice_1_4_6' id='label_1_4_6'>University</label>
+							</li><li class='gchoice_1_4_7'>
+								<input name='input_4.7' type='checkbox'  value='Media'  id='choice_1_4_7' tabindex='9'  />
+								<label for='choice_1_4_7' id='label_1_4_7'>Media</label>
+							</li></ul></div></li><li id='field_1_5'  class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_5' >Add your own tags</label><div class='ginput_container ginput_container_text'><input name='input_5' id='input_1_5' type='text' value='' class='large'  tabindex='10'  placeholder='Add your own tags (separate with commas, not hashtags)'  aria-invalid="false" /></div></li><li id='field_1_7'  class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_7' >CAPTCHA</label><div id='input_1_7' class='ginput_container ginput_recaptcha' data-sitekey='6Ldr4WQUAAAAAIQ-jdAF9ZkS7BrqvY8tMYnWlYn4'  data-theme='light' data-tabindex='11'></div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Submit' tabindex='12' onclick='if(window["gf_submitting_1"]){return false;}  window["gf_submitting_1"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} window["gf_submitting_1"]=true;  jQuery("#gform_1").trigger("submit",[true]); }' /> 
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImM1ZmVkNTNjMWFhMzMxNTMzOWZiNjZlYmI3M2EzYWRiIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script type='text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"Pound Sterling","symbol_left":"&#163;","symbol_right":"","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/everydaysexism.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/everydaysexism.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script></div>
+<article id="post-182761" class="post-182761 post type-post status-publish format-standard hentry category-everyday-sexism tag-home tag-public-space tag-public-transport tag-school tag-university tag-workplace">
+<header>
+<h2 class="entry-title"><a href="http://everydaysexism.com/everyday-sexism/182761" title="Michael" rel="bookmark">Michael</a></h2> <section class="entry-meta">
+<span class="author vcard"><a href="http://everydaysexism.com/author/everydaysexism" title="Posts by everydaysexism" rel="author">everydaysexism</a></span>
+<span class="meta-sep"> | </span>
+<span class="entry-date">16th July 2018</span>
+</section></header>
+<section class="entry-content">
+<p>Hello.<br />
+I am a 28 year old man.  I am just starting to realize how sexist I have been.  I have sexually harassed, pressured and even assaulted women throughout my lifetime.  I would have never defined the things I have done as this before.  I am learning that none of my relationships, I have treated women as equal.  I have viewed them as my property.  Basically, if they don&#8217;t bend their life to mine and agree with me on everything I think is important, then they don&#8217;t love me.  If they had an opinion different than mine, then I saw that as them not loving me.  I also have felt that I deserved to &#8220;have&#8221; all women.  It is as if I have seen women as my toys.  I started to become aware of this issue of mine a few years ago and it has been a journey since then.  I don&#8217;t say all of this to beat myself up, but to bring awareness from the male perspective.  I didn&#8217;t do all of these things because I wanted to hurt women or degrade them.  I honestly believed that this was normal and I was supposed to.  I remember hearing growing up constantly that being a man was superior in many different ways and that a woman&#8217;s role was only to bear children and to take care of the household.  I spent most of my life up to this point subconsciously trying to impress my father and live up to the values that were passed down to me- to treat women poorly and use them.  Having a woman who is my subject was my goal.  My goal is to continue to pay attention to my own thoughts and become more aware of the way that I act towards all people.  Awareness has been the answer to my life in order to accept myself which has allowed me to accept other people.  I think more men should talk about their experience being sexist just as much as women being the victim.  Introspection is key to changing our behavior.</p>
+<div class="entry-links"></div>
+</section><footer class="entry-footer">
+<span class="cat-links">Categories:<a href="http://everydaysexism.com/country/everyday-sexism" rel="category tag">Everyday Sexism</a></span>
+<span class="tag-links">Tags: <a href="http://everydaysexism.com/tag/home" rel="tag">Home</a>, <a href="http://everydaysexism.com/tag/public-space" rel="tag">Public space</a>, <a href="http://everydaysexism.com/tag/public-transport" rel="tag">Public Transport</a>, <a href="http://everydaysexism.com/tag/school" rel="tag">School</a>, <a href="http://everydaysexism.com/tag/university" rel="tag">University</a>, <a href="http://everydaysexism.com/tag/workplace" rel="tag">Workplace</a></span>
+</footer> </article><article id="post-182762" class="post-182762 post type-post status-publish format-standard hentry category-everyday-sexism tag-school">
+<header>
+<h2 class="entry-title"><a href="http://everydaysexism.com/everyday-sexism/182762" title="Alkistis" rel="bookmark">Alkistis</a></h2> <section class="entry-meta">
+<span class="author vcard"><a href="http://everydaysexism.com/author/everydaysexism" title="Posts by everydaysexism" rel="author">everydaysexism</a></span>
+<span class="meta-sep"> | </span>
+<span class="entry-date">16th July 2018</span>
+</section></header>
+<section class="entry-content">
+<p>A few weeks ago I had a conversation with my high school principal about the universities and the courses that we are interested for.. I was in his office with  another student(male). The male student said that he wanted to study medicine. When it was my turn to answer I said that I wanted to study medicine as well.. His answer was &#8221; You know the only way to get a degree in a competitive program like the medical programs is if you are close with a professor&#8221;. He didn&#8217;t commented anything when the male student said he wanted to become a doctor. I was just as good of a student as the male student, if not better.. I was always one the best students on my class but that didn&#8217;t matter for him.. since I&#8217;m a female it seems like I&#8217;m only capable of being a sex object</p>
+<div class="entry-links"></div>
+</section><footer class="entry-footer">
+<span class="cat-links">Categories:<a href="http://everydaysexism.com/country/everyday-sexism" rel="category tag">Everyday Sexism</a></span>
+<span class="tag-links">Tags: <a href="http://everydaysexism.com/tag/school" rel="tag">School</a></span>
+</footer> </article><article id="post-182766" class="post-182766 post type-post status-publish format-standard hentry category-everyday-sexism tag-home">
+<header>
+<h2 class="entry-title"><a href="http://everydaysexism.com/everyday-sexism/182766" title="Rizaye Rodela" rel="bookmark">Rizaye Rodela</a></h2> <section class="entry-meta">
+<span class="author vcard"><a href="http://everydaysexism.com/author/everydaysexism" title="Posts by everydaysexism" rel="author">everydaysexism</a></span>
+<span class="meta-sep"> | </span>
+<span class="entry-date">16th July 2018</span>
+</section></header>
+<section class="entry-content">
+<p>I&#8217;m from a small district dinajpur from a small country Bangladesh.So,my story began since the day I born till today.and I chose today to write the story because just now I saw Laura&#8217;s ted talk.<br />
+I&#8217;m going to begin my story with a story or incident of mine which happend when I was 8 years old.<br />
+     I was coming home from my aunts house whose<br />
+house was 10 minutes away from mine.My parents are both teacher and their school were very far so I had to go to school and all by myself. so,While coming from my aunt house the sky was really black I knew anytime rain could breakdown.So, I walk a little bit and then water broke down from the sky. I took shelter under a closed shop and after a few minutes a rickshaw puller came and ask me,&#8221;honey, where your home is?I gently told him streight from here then behind the local elementary school.then he told me I&#8217;ll give you a free ride.come on,get on my rickshaw.My mom always told me not to talk or take anything from strangers but I am going to school and privates on my own since I was 5. And I was 8 then and wet and there were the terrible sky which totally scared me so I got on the rickshaw with second thoughts and fear.and in a minute I was infront of my house which was a narrow place I told him to stop in the main land but he didn&#8217;t stop there he took me in that narrow place where I was totally terrified.my mom warned me about this kind of things and I was regretting my choise because I had a feeling something bad was gonna happen.He stoped and I was trying to climb down from the rickshaw but he stopped me and asked can I touch you? I was totally numb and I said no. But my words had no value like most of the Bangladeshi girls.he took my breasts by his hand and squeezed them screaming squeezing breasts are the most amazing thing in the world.and I was numb, I couldn&#8217;t see anything, for that moment I couldn&#8217;t talk,I couldn&#8217;t move,I was just numb and I was right under my house. I got my strength back and push him and ran towards my house and closed the main gate of my building. I couldn&#8217;t walk the stairs but somehow I did and rang my doorbell.My mom opened the door and seeing her face I became more terrified I know I couldn&#8217;t tell her what just happend with me and I didn&#8217;t. And the only person who know about this is my brother whom I told recently after clarifying that he is trustable.I couldn&#8217;t tell my mom because she is emotional first she will blame me and then in every two days she will taunt me about it by saying staffs like,&#8221;you have lost your everything, dignity and shits like that but look at you it doesn&#8217;t seems like you have any regrets&#8221;. And after that she will come to me to give me sympathy about it.And among these three thing sympathy is the thing which I hate the most.Even though I was 8 years old and my brother was 12 at that time we saw things that made us so much older mentally. We saw and learned from people mostly from our parents who were totally two different human being. We saw our dad beating the shit out of my mom right after waking up and saw my mom begging my dad to stay while going to sleep at night.well that scenario changed a little bit after my got her job but she still gets beaten by him but no matter how many times she wants to do something about it but never get enough strength to do anything about it or nomatter how much supportive me and my brother is to her to do something against him.And I totally couldn&#8217;t tell this to my dad though I was close to him at that time because if I did so, my education would have been stopped there and I might have been having kids with a older man whom I barely know.And I&#8217;m not even 15 yet. From 5 or 6 my mom told me that, &#8221; you need to study really good cause your dad don&#8217;t want you to be educated.If you don&#8217;t study your dad will marry you with someone and your life will become just like mine.At that time I didn&#8217;t believe her I was a daddy&#8217;s girl but now I do. Mainly last night when I asked him about my tutors bill he said me he won&#8217;t give a penny and he won&#8217;t give me any money to persue my study.<br />
+the story I shared wasn&#8217;t just a one day it is a kind of thing I suffer everyday in streets or home by my parent</p>
+<div class="entry-links"></div>
+</section><footer class="entry-footer">
+<span class="cat-links">Categories:<a href="http://everydaysexism.com/country/everyday-sexism" rel="category tag">Everyday Sexism</a></span>
+<span class="tag-links">Tags: <a href="http://everydaysexism.com/tag/home" rel="tag">Home</a></span>
+</footer> </article><article id="post-182751" class="post-182751 post type-post status-publish format-standard hentry category-everyday-sexism tag-home">
+<header>
+<h2 class="entry-title"><a href="http://everydaysexism.com/everyday-sexism/182751" title="15" rel="bookmark">15</a></h2> <section class="entry-meta">
+<span class="author vcard"><a href="http://everydaysexism.com/author/everydaysexism" title="Posts by everydaysexism" rel="author">everydaysexism</a></span>
+<span class="meta-sep"> | </span>
+<span class="entry-date">16th July 2018</span>
+</section></header>
+<section class="entry-content">
+<p>3 years ago, when I was around 12 I believe, my god brother continually tried to touch me between my legs during a game of hide and seek where he would keep trying to hide with me. He was 4 years older than I was. I still pretend nothing ever happened, but I feel like it has made me feel so uncomfortable to be touched by guys even when they aren’t doing anything wrong. I am now 15 and I have only ever told 1 person, who I no longer am close to, I feel too embarrassed to ever say anything, especially because his mom is one my mom’s best friends.</p>
+<div class="entry-links"></div>
+</section><footer class="entry-footer">
+<span class="cat-links">Categories:<a href="http://everydaysexism.com/country/everyday-sexism" rel="category tag">Everyday Sexism</a></span>
+<span class="tag-links">Tags: <a href="http://everydaysexism.com/tag/home" rel="tag">Home</a></span>
+</footer> </article><article id="post-182752" class="post-182752 post type-post status-publish format-standard hentry category-everyday-sexism tag-home">
+<header>
+<h2 class="entry-title"><a href="http://everydaysexism.com/everyday-sexism/182752" title="Sue" rel="bookmark">Sue</a></h2> <section class="entry-meta">
+<span class="author vcard"><a href="http://everydaysexism.com/author/everydaysexism" title="Posts by everydaysexism" rel="author">everydaysexism</a></span>
+<span class="meta-sep"> | </span>
+<span class="entry-date">16th July 2018</span>
+</section></header>
+<section class="entry-content">
+<p>On leaving my house yesterday, with my husband,  our male neighbour commented across the fence:&#8217;I&#8217;m a bit disappointed with the neighbours&#8217;, smiling. We looked at him with puzzlement.<br />
+He said:&#8217;Well, in this hot weather I expected to see you out in the garden in a bikini! Ha! Ha!&#8217;<br />
+My husband replied:&#8217;That&#8217;s never gonna happen.&#8217;<br />
+I looked at the neighbour with astonishment.<br />
+He said:&#8217;Well, at least I brought a smile to her face.&#8217;<br />
+I replied, politely, of course, &#8216;Well, something like that, Colin. Something like that!&#8217;<br />
+I shook my head and got in the car.<br />
+I&#8217;m 65 years old, FFS!</p>
+<div class="entry-links"></div>
+</section><footer class="entry-footer">
+<span class="cat-links">Categories:<a href="http://everydaysexism.com/country/everyday-sexism" rel="category tag">Everyday Sexism</a></span>
+<span class="tag-links">Tags: <a href="http://everydaysexism.com/tag/home" rel="tag">Home</a></span>
+</footer> </article><article id="post-182755" class="post-182755 post type-post status-publish format-standard hentry category-everyday-sexism tag-sexismandtaichi tag-public-space">
+<header>
+<h2 class="entry-title"><a href="http://everydaysexism.com/everyday-sexism/182755" title="Laura Cuzzuol" rel="bookmark">Laura Cuzzuol</a></h2> <section class="entry-meta">
+<span class="author vcard"><a href="http://everydaysexism.com/author/everydaysexism" title="Posts by everydaysexism" rel="author">everydaysexism</a></span>
+<span class="meta-sep"> | </span>
+<span class="entry-date">16th July 2018</span>
+</section></header>
+<section class="entry-content">
+<p>I am copying the email I received after experiencing and reporting bullying/sexual harassment by attending a tai chi course in London. I want to inspire as many of you as possible in taking action. In the appropriate legal way. </p>
+<p>Dear Laura </p>
+<p>Thank you for your reply. </p>
+<p>We would like to take this opportunity to sincerely apologise that you felt uncomfortable in our classes. This is extremely regrettable, particularly as we strive to make Tai Chi a positive experience for all of our students, and we are sorry that your involvement was stressful rather than enjoyable.  </p>
+<p>Your email raised a number of points in relation to our anti-harassment policy. We are of course committed to providing a safe and healthy environment for our teachers and students and we thank you for your suggestions in this regard. After considering your feedback, we have decided to publish our statement on harassment as well as our complaints procedure on our website. This will be easily accessible by all students and will outline the clear process that students can follow to bring matters such as yours, to our prompt attention. In addition to this, we have dedicated an email address solely for complaints that will go directly to a person trained in the protection of students and in dealing with issues of harassment and we will ensure the privacy and confidentiality of those who use the address. We are working on this information being publicly available on our website in the coming weeks, which you will, of course, be able to access. </p>
+<p>In your email, you also request a refund of £579, being the amount you spent for the Tai Chi/Qi Gong courses from September 2016 to September 2017. Given your negative experience, we would like, as a gesture of goodwill to refund you the full amount of £579. To this end can you please forward us your account details so we can arrange the transfer?</p>
+<p>We hope that you recognise our attempts to rectify your negative experience and wish you all the very best for the future.</p>
+<div class="entry-links"></div>
+</section><footer class="entry-footer">
+<span class="cat-links">Categories:<a href="http://everydaysexism.com/country/everyday-sexism" rel="category tag">Everyday Sexism</a></span>
+<span class="tag-links">Tags: <a href="http://everydaysexism.com/tag/sexismandtaichi" rel="tag">#sexismandtaichi</a>, <a href="http://everydaysexism.com/tag/public-space" rel="tag">Public space</a></span>
+</footer> </article><article id="post-182757" class="post-182757 post type-post status-publish format-standard hentry category-everyday-sexism tag-workplace">
+<header>
+<h2 class="entry-title"><a href="http://everydaysexism.com/everyday-sexism/182757" title="Neena" rel="bookmark">Neena</a></h2> <section class="entry-meta">
+<span class="author vcard"><a href="http://everydaysexism.com/author/everydaysexism" title="Posts by everydaysexism" rel="author">everydaysexism</a></span>
+<span class="meta-sep"> | </span>
+<span class="entry-date">16th July 2018</span>
+</section></header>
+<section class="entry-content">
+<p>It&#8217;s hard not to feel some level of despair when a young, black woman in the 21st Century is so entrenched in assumptions of hierarchy that she only bothers to send a follow-up email to the man from a meeting at which both a man and a woman were present, and present as equals.</p>
+<div class="entry-links"></div>
+</section><footer class="entry-footer">
+<span class="cat-links">Categories:<a href="http://everydaysexism.com/country/everyday-sexism" rel="category tag">Everyday Sexism</a></span>
+<span class="tag-links">Tags: <a href="http://everydaysexism.com/tag/workplace" rel="tag">Workplace</a></span>
+</footer> </article><article id="post-182758" class="post-182758 post type-post status-publish format-standard hentry category-everyday-sexism tag-public-space">
+<header>
+<h2 class="entry-title"><a href="http://everydaysexism.com/everyday-sexism/182758" title="Emily" rel="bookmark">Emily</a></h2> <section class="entry-meta">
+<span class="author vcard"><a href="http://everydaysexism.com/author/everydaysexism" title="Posts by everydaysexism" rel="author">everydaysexism</a></span>
+<span class="meta-sep"> | </span>
+<span class="entry-date">16th July 2018</span>
+</section></header>
+<section class="entry-content">
+<p>So I was on the street today and some man came up to me saying &#8220;nice tits sugar&#8217; and making disgusting remarks about my body. When I looked at him with a look of disgust he said &#8216;take the compliment&#8217; like sure I love being sexualised and scared to death on the street for just being a girl..  sure!<br />
+There&#8217;s days like this where things get too much. Like I deal with this and my friends deal with this every single day and there&#8217;s days like today t just gets me down.</p>
+<div class="entry-links"></div>
+</section><footer class="entry-footer">
+<span class="cat-links">Categories:<a href="http://everydaysexism.com/country/everyday-sexism" rel="category tag">Everyday Sexism</a></span>
+<span class="tag-links">Tags: <a href="http://everydaysexism.com/tag/public-space" rel="tag">Public space</a></span>
+</footer> </article><article id="post-182759" class="post-182759 post type-post status-publish format-standard hentry category-everyday-sexism tag-home">
+<header>
+<h2 class="entry-title"><a href="http://everydaysexism.com/everyday-sexism/182759" title="Beth" rel="bookmark">Beth</a></h2> <section class="entry-meta">
+<span class="author vcard"><a href="http://everydaysexism.com/author/everydaysexism" title="Posts by everydaysexism" rel="author">everydaysexism</a></span>
+<span class="meta-sep"> | </span>
+<span class="entry-date">16th July 2018</span>
+</section></header>
+<section class="entry-content">
+<p>I got a new roommate over a month ago and not only does he leave the toilet seat up, he has never ONCE cleaned the bathroom or emptied the garbage or recycling. I am tempted to raise his rent to include a cleaning fee, but also realize that cleaning up after him is not my job, regardless of whether it&#8217;s paid.</p>
+<div class="entry-links"></div>
+</section><footer class="entry-footer">
+<span class="cat-links">Categories:<a href="http://everydaysexism.com/country/everyday-sexism" rel="category tag">Everyday Sexism</a></span>
+<span class="tag-links">Tags: <a href="http://everydaysexism.com/tag/home" rel="tag">Home</a></span>
+</footer> </article><article id="post-182760" class="post-182760 post type-post status-publish format-standard hentry category-everyday-sexism tag-school">
+<header>
+<h2 class="entry-title"><a href="http://everydaysexism.com/everyday-sexism/182760" title="Anonymous" rel="bookmark">Anonymous</a></h2> <section class="entry-meta">
+<span class="author vcard"><a href="http://everydaysexism.com/author/everydaysexism" title="Posts by everydaysexism" rel="author">everydaysexism</a></span>
+<span class="meta-sep"> | </span>
+<span class="entry-date">16th July 2018</span>
+</section></header>
+<section class="entry-content">
+<p>I&#8217;m in my high school robotics team. As you can probably imagine, it&#8217;s mostly boys. On our team of 40 students, only 6 are female. They are never outright sexist, but just the setup of the team makes it hard to become near as close to the as they are to each other. For example, at the state championship, one of the boy&#8217;s rooms pushed their beds together to make a &#8220;cuddle fort&#8221; and another was up all night playing smash bros on a Wii someone brought. Meanwhile the girls basically hung out in out two rooms, not doing anything.<br />
+The team also has a couple mini teams based on how well you do, these being Pit Crew for the mechanically inclined, Skeleton Crew, which is really a jr. Pit Crew, and Drive Team, who get all the glory. We have 2 girls on the 6 person Pit Crew, 1 on the 10 person Skeleton, and No girls on the drive team. Which really sucks because them other girls in our school aren&#8217;t seeing the robot team and thinking, &#8220;yeah, this is something I could do&#8221;. I&#8217;m on the pit crew right now, but next year I&#8217;m hoping to get on the drive team.</p>
+<div class="entry-links"></div>
+</section><footer class="entry-footer">
+<span class="cat-links">Categories:<a href="http://everydaysexism.com/country/everyday-sexism" rel="category tag">Everyday Sexism</a></span>
+<span class="tag-links">Tags: <a href="http://everydaysexism.com/tag/school" rel="tag">School</a></span>
+</footer> </article><nav id="nav-below" class="navigation" role="navigation">
+<div class="nav-previous"><a href="http://everydaysexism.com/page/2" ><span class="meta-nav">&larr;</span> older</a></div>
+<div class="nav-next"></div>
+</nav>
+</section>
+<aside id="sidebar" role="complementary">
+</aside>
+<div class="clear"></div>
+</div>
+<footer id="footer" role="contentinfo">
+<div id="copyright">
+
+</div>
+</footer>
+</div>
+<script type='text/javascript' src='http://everydaysexism.com/wp-includes/js/wp-embed.min.js?ver=4.9.7'></script>
+<script type='text/javascript' src='http://everydaysexism.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://everydaysexism.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='http://everydaysexism.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?hl=en&#038;render=explicit&#038;ver=4.9.7'></script>
+		<script type="text/javascript">
+			( function( $ ) {
+				$( document ).bind( 'gform_post_render', function() {
+					var gfRecaptchaPoller = setInterval( function() {
+						if( ! window.grecaptcha || ! window.grecaptcha.render ) {
+							return;
+						}
+						renderRecaptcha();
+						clearInterval( gfRecaptchaPoller );
+					}, 100 );
+				} );
+			} )( jQuery );
+		</script>
+
+		
+<link href='https://fonts.googleapis.com/css?family=Inika' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="expand.js?ver=1"></script>
+
+</body>
+</html>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+
+<!--Generated by Endurance Page Cache-->
